@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/TomashKhamlai/ko-test/issues"
   },
-  "homepage": "https://github.com/TomashKhamlai/ko-test#readme"
+  "homepage": "https://github.com/TomashKhamlai/ko-test#readme",
+  "dependencies": {
+    "knockout": "^3.5.1"
+  }
 }
